@@ -1,2 +1,0 @@
-username = dipak25
-password = dipak12345
