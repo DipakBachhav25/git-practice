@@ -1,5 +1,0 @@
-Hello World Dipak !
-Take input from user
-And then add those values
-
-submit data to the database
