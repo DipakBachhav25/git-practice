@@ -1,2 +1,4 @@
 Add the user details here..
 Process the user details..
+
+create an avatar for the user
